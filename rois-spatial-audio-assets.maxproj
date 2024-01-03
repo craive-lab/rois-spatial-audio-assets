@@ -2,7 +2,7 @@
 	"name" : "rois-spatial-audio-assets",
 	"version" : 1,
 	"creationdate" : 3785853846,
-	"modificationdate" : 3787012552,
+	"modificationdate" : 3787093094,
 	"viewrect" : [ 320.0, 64.0, 300.0, 813.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,11 +14,6 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
-			}
-,
-			"input-tests.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
 			}
 
 		}
